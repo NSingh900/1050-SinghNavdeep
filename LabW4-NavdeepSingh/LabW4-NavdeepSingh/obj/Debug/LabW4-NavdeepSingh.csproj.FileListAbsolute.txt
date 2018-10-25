@@ -1,0 +1,7 @@
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\bin\Debug\LabW4-NavdeepSingh.exe.config
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\bin\Debug\LabW4-NavdeepSingh.exe
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\bin\Debug\LabW4-NavdeepSingh.pdb
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\obj\Debug\LabW4-NavdeepSingh.csprojAssemblyReference.cache
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\obj\Debug\LabW4-NavdeepSingh.csproj.CoreCompileInputs.cache
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\obj\Debug\LabW4-NavdeepSingh.exe
+C:\Users\Navdeep\source\repos\1050-SinghNavdeep\LabW4-NavdeepSingh\LabW4-NavdeepSingh\obj\Debug\LabW4-NavdeepSingh.pdb
